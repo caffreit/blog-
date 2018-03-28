@@ -1,3 +1,8 @@
+
+
+Here's the link to the [first post](https://caffreit.github.io/ParkRunPart1/) of the Malahide ParkRun analysis.
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/caffreit/blog-/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
