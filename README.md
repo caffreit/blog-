@@ -18,6 +18,6 @@ My first project posted here will be a series on the Malahide Park Run. It has b
 [![jpg](4267143460_8522bed1d8_b.jpg)](https://caffreit.github.io/Weather_Effects/)
 
 
-## [Battle](https://caffreit.github.io/Battle-of-the-Sexes-ParkRun/) of the Sexes in Malahide ParkRun.
+## [Battle of the Sexes](https://caffreit.github.io/Battle-of-the-Sexes-ParkRun/) in Malahide ParkRun.
 
 [![jpg](5110.jpg)](https://caffreit.github.io/Battle-of-the-Sexes-ParkRun/)
