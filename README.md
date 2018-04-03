@@ -15,3 +15,8 @@ Oh, and for the moment (next week or so), this blog is under construction and wi
 ## [Whether the weather](https://caffreit.github.io/Weather_Effects/) affects the Malahide ParkRun.
 
 ![jpg](4267143460_8522bed1d8_b.jpg)
+
+
+## [Battle](https://caffreit.github.io/Battle-of-the-Sexes-ParkRun/) of the Sexes in Malahide ParkRun.
+
+![jpg](5110.jpg)
