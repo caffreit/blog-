@@ -10,7 +10,7 @@ Oh, and for the moment (next week or so), this blog is under construction and wi
 
 ## [Exploratory Analysis](https://caffreit.github.io/ParkRun_Part_1/) of the Malahide ParkRun data.
 
-![png](output_17_1.png)
+[![png](output_17_1.png)](https://caffreit.github.io/ParkRun_Part_1/)
 
 ## [Whether the weather](https://caffreit.github.io/Weather_Effects/) affects the Malahide ParkRun.
 
@@ -19,4 +19,4 @@ Oh, and for the moment (next week or so), this blog is under construction and wi
 
 ## [Battle](https://caffreit.github.io/Battle-of-the-Sexes-ParkRun/) of the Sexes in Malahide ParkRun.
 
-![jpg](5110.jpg)
+[![jpg](5110.jpg)](https://caffreit.github.io/Battle-of-the-Sexes-ParkRun/)
