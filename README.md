@@ -1,6 +1,6 @@
 
 ## Welcome to my blog-
-This blog has two purposes, the first is to help secure a job by showcasing my portfolio of coding experience. [See more](https://github.com/caffreit)
+This blog has two purposes, the first is to help secure a job by showcasing my portfolio of coding experience. [See more](https://github.com/caffreit) of my academic work.
 
 The second is to serve as a reference for me when I'm working on future projects.
 
