@@ -12,6 +12,6 @@ Oh, and for the moment (next week or so), this blog is under construction and wi
 
 ![png](output_17_1.png)
 
-## Whether the [weather affects] (https://caffreit.github.io/Weather_Effects/) the Malahide ParkRun.
+## Whether the [weather affects](https://caffreit.github.io/Weather_Effects/) the Malahide ParkRun.
 
-![png](output_17_1.png)
+![jpg](4267143460_8522bed1d8_b.jpg)
