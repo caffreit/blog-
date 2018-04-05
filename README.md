@@ -21,3 +21,7 @@ My first project posted here will be a series on the Malahide Park Run. It has b
 ## [Battle of the Sexes](https://caffreit.github.io/Battle-of-the-Sexes-ParkRun/) in Malahide ParkRun.
 
 [![jpg](5110.jpg)](https://caffreit.github.io/Battle-of-the-Sexes-ParkRun/)
+
+## [Mystic Meg 2.0](https://caffreit.github.io/Mystic-Meg-2.0-predicting-gender/) predicting athlete gender
+
+[![jpg](MYSTIC-MEG_2882318b.jpg)](https://caffreit.github.io/Mystic-Meg-2.0-predicting-gender/)
