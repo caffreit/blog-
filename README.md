@@ -22,6 +22,6 @@ My first project posted here will be a series on the Malahide Park Run. It has b
 
 [![jpg](5110.jpg)](https://caffreit.github.io/Battle-of-the-Sexes-ParkRun/)
 
-## [Mystic Meg 2.0](https://caffreit.github.io/Mystic-Meg-2.0-predicting-gender/) predicting athlete gender
+## [Mystic Meg 2.0;](https://caffreit.github.io/Mystic-Meg-2.0-predicting-gender/) can she predict athlete gender?
 
 [![jpg](MYSTIC-MEG_2882318b.jpg)](https://caffreit.github.io/Mystic-Meg-2.0-predicting-gender/)
