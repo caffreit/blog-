@@ -29,4 +29,4 @@ My first project posted here will be a series on the Malahide Park Run. It has b
 
 ## [Mystic Meg 2.1;](https://caffreit.github.io/Mystic-Meg-2.0-predicting-club/) can she predict club membership?
 
-[![jpg](https://caffreit.github.io/Mystic-Meg-2.0-predicting-club/)
+[![jpg](MYSTIC-MEG_2882318b.jpg)](https://caffreit.github.io/Mystic-Meg-2.0-predicting-club/)
